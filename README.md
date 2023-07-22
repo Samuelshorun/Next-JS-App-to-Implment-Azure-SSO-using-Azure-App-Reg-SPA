@@ -4,9 +4,11 @@ Integrate Next.js web app with Azure AD
 #Implement a simple, Azure AD-integrated Next.js-based application.<br />
 #Validate the Azure AD integration of the Next.js-based application.<br />
 
-Clone App__
+Clone App<br />
 Install git<br />
-Install Node Js__
+Install Node Js <br />
+
+<br />
 #############################################################
 <br /><br /><br />
 
@@ -29,3 +31,7 @@ npm run-script start <br />
 reference:
 <br />
 https://learn.microsoft.com/en-us/training/modules/cna-set-up-azure-ad-use-scale/7-exercise-integrate-next-js-web-app-azure-ad
+
+<br />
+<br />
+https://github.com/MicrosoftDocs/mslearn-cloud-native-apps.git
